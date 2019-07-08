@@ -18,3 +18,7 @@ Download the repo and run the Main.java class
 ## Uses Case
 
 The example is based on a finacial example of deciding if someone is accepted for a loan by using a credit score
+
+# Models
+
+These are a set of models written in Python that are going to be used to model whether the requirements are compliant. This example uses the requirement number, the user level and whether this is true or false to classify the requirement as compliant. The values are currently random and there is a little niose added. This can be changed and expanded. A NN model is currently implemented.
